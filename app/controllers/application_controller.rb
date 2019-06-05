@@ -1,2 +1,2 @@
-class ApplicationController < ActionController::Basex
+class ApplicationController < ActionController::Base
 end

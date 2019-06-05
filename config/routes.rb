@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
-  devise_for :users
-  get 'persons/profile'
   root 'home#index'
+  devise_for :users
+  get 'calendar/show'
+  get 'persons/profile'
   get 'persons/profile', as: 'user_root'
+  resource :calendar, only: [:show]
 end
