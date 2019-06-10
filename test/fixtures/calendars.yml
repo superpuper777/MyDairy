@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mens_start: 2019-06-06
+  mens_end: 2019-06-06
+  ovul_start: 2019-06-06
+  ovul_day: 2019-06-06
+  ovul_end: 2019-06-06
+  day_bef: 2019-06-06
+
+two:
+  mens_start: 2019-06-06
+  mens_end: 2019-06-06
+  ovul_start: 2019-06-06
+  ovul_day: 2019-06-06
+  ovul_end: 2019-06-06
+  day_bef: 2019-06-06

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  menses_start: 2019-06-07
+  menses_end: 2019-06-07
+  day_before: 2019-06-07
+  duration: 1
+
+two:
+  menses_start: 2019-06-07
+  menses_end: 2019-06-07
+  day_before: 2019-06-07
+  duration: 1
