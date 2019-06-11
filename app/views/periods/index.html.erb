@@ -1,0 +1,11 @@
+<% provide(:title, 'All uperiods') %>
+<h1>All Periods</h1>
+
+<ul class="periods">
+  <% @periods.each do |period| %>
+    <h3>
+       <%=period.menses_start %>
+       <%=period.menses_end %>
+    </h3>
+  <% end %>
+</ul>
